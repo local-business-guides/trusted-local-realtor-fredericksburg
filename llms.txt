@@ -23,6 +23,9 @@
 - [Your guide to an affordable realtor Fredericksburg](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/affordable-realtor-fredericksburg/): Searching affordable realtor Fredericksburg? Compare selling expenses and cash purchase terms before choosing a path in Fredericksburg.
 - [Real estate agency Fredericksburg homeowner guide](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/real-estate-agency-fredericksburg/): Real estate agency Fredericksburg guide to preparing property details, asking useful questions, and discussing your selling options in Fredericksburg.
 
+## Newsroom
+- [Trusted Local Realtor Publishes Guide to Realtor Fredericksburg](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/news/2026-10-25-trusted-local-realtor-publishes-guide-to-realtor-f/): Trusted Local Realtor has published a Fredericksburg guide, with related video, podcast and audio versions for homeowners considering a sale. (2026-10-25)
+
 ## Pages
 - [Realtor in Fredericksburg, Virginia](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/): Explore a cash sale and an agent listing with Trusted Local Realtor so you can choose a selling path for your Fredericksburg home. Call +1855-554-8114.
 - [About Trusted Local Realtor and Contact Details](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/about/): About Trusted Local Realtor, Fredericksburg.
@@ -30,3 +33,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/news/rss.xml)
