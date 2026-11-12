@@ -12,11 +12,11 @@
 - Real estate agency
 
 ## Guides
-- [Your local realtor Fredericksburg preparation guide](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/local-realtor-fredericksburg/): Looking for local realtor Fredericksburg guidance? Organize property details and practical next steps for selling in Fredericksburg, Virginia.
+- [Choosing the best realtor in fredericksburg](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/best-realtor-in-fredericksburg/): Find the best realtor in fredericksburg for your needs. Compare selling costs, preparation, and cash options in Fredericksburg.
 - [Your realtor fredericksburg guide to selling choices](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/realtor-fredericksburg/): Use this realtor fredericksburg guide to compare cash offers and listing proceeds before selling your home in Fredericksburg, Virginia.
 - [Choosing a realtor in fredericksburg for an inherited home](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/realtor-in-fredericksburg/): Searching for a realtor in fredericksburg? Prepare for an inherited home sale and understand your options in Fredericksburg, Virginia.
 - [Choosing the best realtor Fredericksburg for your needs](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/best-realtor-fredericksburg/): Searching best realtor Fredericksburg? Compare selling options, ask better questions, and prepare for a house sale in Fredericksburg, Virginia.
-- [Choosing the best realtor in fredericksburg](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/best-realtor-in-fredericksburg/): Find the best realtor in fredericksburg for your needs. Compare selling costs, preparation, and cash options in Fredericksburg.
+- [Your local realtor Fredericksburg preparation guide](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/local-realtor-fredericksburg/): Looking for local realtor Fredericksburg guidance? Organize property details and practical next steps for selling in Fredericksburg, Virginia.
 - [Before you contact a realtor near me](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/realtor-near-me/): Searching realtor near me in Fredericksburg? Prepare for a useful conversation about your house, belongings, and selling options.
 - [top rated realtor Fredericksburg seller checklist](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/top-rated-realtor-fredericksburg/): Searching top rated realtor Fredericksburg? Compare selling costs, property preparation, and cash offers for your Fredericksburg, Virginia home.
 - [top rated realtor in fredericksburg for a complex sale](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/top-rated-realtor-in-fredericksburg/): Looking for a top rated realtor in fredericksburg? Prepare for an inherited or occupied home sale in Fredericksburg, Virginia.
@@ -24,6 +24,7 @@
 - [Real estate agency Fredericksburg homeowner guide](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/real-estate-agency-fredericksburg/): Real estate agency Fredericksburg guide to preparing property details, asking useful questions, and discussing your selling options in Fredericksburg.
 
 ## Newsroom
+- [Trusted Local Realtor Shares Guide to Best Realtor in Fredericksburg](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/news/2026-11-12-trusted-local-realtor-shares-guide-to-best-realtor/): Trusted Local Realtor published a Fredericksburg home-selling guide this week, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-12)
 - [New Guide Helps Fredericksburg Homeowners Compare Home Sale Options](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/news/2026-11-03-new-guide-helps-fredericksburg-homeowners-compare/): Trusted Local Realtor published a guide for Fredericksburg homeowners, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-03)
 - [Fredericksburg Homeowners Can Review New Realtor Guide](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/news/2026-10-31-fredericksburg-homeowners-can-review-new-realtor/): Trusted Local Realtor has released a Fredericksburg home-selling guide with companion video, podcast and audio versions. (2026-10-31)
 - [Trusted Local Realtor Releases Fredericksburg Home Selling Guide](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/news/2026-10-27-trusted-local-realtor-releases-fredericksburg-home/): Trusted Local Realtor has published a Fredericksburg home selling guide, with a YouTube video, podcast episode and SoundCloud audio version. (2026-10-27)
@@ -37,4 +38,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/trusted-local-realtor-fredericksburg/news/rss.xml)
-- [Main resource site](https://trusted-local-realtor-fredericksburg.localwebsites.chatgpt.site)
+- [Main resource site](https://trusted-local-realtor-fredericksburg.localwebsites.chatgpt.site/news/2026-10-31-new-fredericksburg-guide-covers-home-sale-options-for-local/)
